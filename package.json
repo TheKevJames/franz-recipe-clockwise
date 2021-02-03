@@ -1,0 +1,16 @@
+{
+  "id": "clockwise",
+  "name": "Clockwise",
+  "version": "1.0.0",
+  "description": "Clockwise",
+  "main": "index.js",
+  "author": "Kevin James <KevinJames@thekev.in>",
+  "license": "MIT",
+  "repository": "https://github.com/TheKevJames/franz-recipe-clockwise",
+  "config": {
+    "serviceURL": "https://www.getclockwise.com/app/",
+    "hasIndirectMessages": false,
+    "hasNotificationSound": false,
+    "hasTeamId": false
+  }
+}
